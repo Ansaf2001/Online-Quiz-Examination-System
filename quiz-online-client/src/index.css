@@ -1,0 +1,20 @@
+body {
+    /* background-color: rgba(163, 99, 15, 0.466); */
+    
+}
+.btn-outline-custom {
+    color: rgb(0, 68, 255);
+    border-color: rgb(0, 4, 255);
+}
+
+.btn-outline-custom:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(70, 227, 255);
+}
+/* header {
+    top: 0%;
+} */
+.header {
+    background-image: url('../src/assets/logo.png');
+    /* Additional styling */
+  }
